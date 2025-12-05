@@ -331,7 +331,6 @@ random forest would be better because it is sligjtly mroe reliable with positive
 Stremlit portion
 """
 
-!pip install streamlit plotly
 import streamlit as st
 import pandas as pd
 import plotly.express as px
