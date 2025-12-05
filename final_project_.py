@@ -58,7 +58,6 @@ st.plotly_chart(fig_box, use_container_width=True)
 # -------- Optional short text insight --------
 st.markdown(
     """
-    **Insight:** TSA-eligible households tend to have higher repair amounts on average than non-eligible
-    households, which fits FEMA's goal of prioritizing applicants with more severe housing damage.
+    **Insight:** Based off of the data, TSA-Eligible households tend to have higher repair amounts than Non-Eligible households. This fits TSA's goals of helping those in greater need.
     """
 )
